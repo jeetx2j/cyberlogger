@@ -1,4 +1,4 @@
-# ZLogger
+# cyberlogger
 
 Remote persistent keylogger for Windows and Linux.
 
